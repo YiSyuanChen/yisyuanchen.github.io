@@ -1,8 +1,8 @@
-----
+---
 layout: post
 title: "Test Post"
 date: 2022-01-19 21:22:16 +0800
 categories: CATEGORY-1 CATEGORY-2
-----
+---
 
 Hello !
